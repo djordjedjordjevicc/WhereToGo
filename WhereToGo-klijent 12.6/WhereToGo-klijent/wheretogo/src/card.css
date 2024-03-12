@@ -1,0 +1,61 @@
+
+  .Card {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+    cursor: pointer;
+    height: 200px;
+  }
+
+  .cardColumns{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 auto;
+    margin-left: 0;
+    width: auto;
+  }
+
+  .image {
+    width: 250px;
+  }
+
+  .imageProfile{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 250px;
+   
+  }
+  
+  .SecondColumn {
+    margin-left: 10px;
+    flex: 1 1 auto;
+    width: calc(100% - 200px - var(--bui_spacing_4x));
+   
+  }
+  .Ocena{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 25px;
+  }
+  .naziv, .vrsta, .opis, .Ocena, .adresa{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .naziv, .vrsta, .adresa{
+    color:black
+  }
+
+  .opis{
+    color:#941103
+  }
+  .Ocena{
+    color:#941103
+  }
+  
+ 
+  
+
+  

@@ -1,0 +1,97 @@
+.slika{
+    display: flex;
+    height: 300px;
+    width: 350px;
+}
+.map-container{
+    display: flex;
+    height: 300px;
+    width: 350px;
+}
+.glavni{
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.slikaMapa{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    justify-content: center;
+    align-items: center;
+   
+}
+/* .left, .right {
+    flex-basis: 50%;
+  } */
+/* .left, .right {
+    display: flex;
+    flex: 1;
+} */
+.left{
+    margin: 30px;
+    /* text-align: left;
+    margin-right: auto;
+    margin-left: -30px; */
+}
+
+.right{
+    margin: 30px;
+   
+    /* margin-left: auto;
+    margin-left: auto;
+    margin-right: -10px; */
+}
+
+/* Primjer generiranog CSS koda za font Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Crafty+Girls&family=Moirai+One&family=Orbitron:wght@400;500;600;700;800;900&family=Poppins&display=swap');
+
+.font-caveat {
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+}
+
+.font-fredericka{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 20px;
+    color: #525150;
+}
+.font-poppins{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 25px;
+    color: #941103;
+
+}
+.stars{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.zvezdice{
+    display: flex;
+    flex-direction: row;
+}
+.top{
+    margin-bottom: -10px;
+    margin-left: 5px;
+    font-family: 'Crafty Girls', cursive;
+    font-weight: bold;
+    color: #941103;
+}
+.fontLog{
+    font-family: 'Crafty Girls', cursive;
+}
+
+

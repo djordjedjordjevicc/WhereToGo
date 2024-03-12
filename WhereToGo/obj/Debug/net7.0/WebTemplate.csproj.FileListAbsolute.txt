@@ -1,0 +1,475 @@
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\appsettings.json
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\ref\WebTemplate.dll
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cache
+C:\Users\mlade\Desktop\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cs
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mlade\Desktop\WhereToGo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\appsettings.json
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cache
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cs
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\mlade\Desktop\repozitorijum\si.23.59.wheretogo\Aplikacija\WhereToGo\obj\Debug\net7.0\ref\WebTemplate.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\appsettings.json
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cache
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cs
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\mlade\Desktop\Where To Go\WhereToGo\obj\Debug\net7.0\ref\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\appsettings.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cs
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGO-Predaja\Where To Go\WhereToGo\obj\Debug\net7.0\ref\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.RazorAssemblyInfo.cs
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\appsettings.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\djordje\OneDrive - Faculty of Electronic Engineering\Radna površina\WhereToGo-final server\obj\Debug\net7.0\ref\WebTemplate.dll

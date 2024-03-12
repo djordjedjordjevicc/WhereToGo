@@ -1,0 +1,39 @@
+.naslov{
+   
+   display:flex;
+   justify-content: center;
+}
+form{
+  display:flex;
+  justify-content: center;
+}
+body {
+    font-family: var(--font-roboto);
+    background-color: #cbbbbb;
+  }
+  .pocetniDiv{
+    display:flex;
+    flex-direction:row;
+    background-color: rgb(248, 6, 6);
+    align-items: right;
+
+
+  }
+  .login{
+  font-size: 4rem;
+  
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--clr-neon);
+    border: var(--clr-neon) 0.125em solid;
+    padding: 0.25em 1em;
+    border-radius: 0.25em;
+  
+    text-shadow: 0 0 0.125em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
+  
+    box-shadow: inset 0 0 0.5em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
+  
+    position: relative;
+  
+  }
